@@ -1,14 +1,14 @@
 # Hi there, I'm VENKATAPATHY S 👋
 
 ## About Me
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on building scalable web applications and APIs
+- 🌱 I'm currently learning FastAPI, Docker, and cloud deployment (AWS/GCP)
+- 👯 I'm looking to collaborate on open-source projects and innovative web solutions
+- 🤔 I'm looking for help with mastering system design and advanced DevOps practices
+- 💬 Ask me about Python, JavaScript, REST APIs, and backend development
+- 📫 How to reach me: [venkatapathy.work@gmail.com] | [https://linkedin.com/in/venkatapathy78]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving coding challenges and automating everyday tasks!
 
 ## My Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -22,5 +22,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
+
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/venkatapathy78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatapathy78)
+
