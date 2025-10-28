@@ -10,6 +10,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving coding challenges and automating everyday tasks!
 
+### LeetCode Progress
+
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=9Vgt3JBqKf&theme=dark&font=baloo)
+
+**📊 My Coding Journey:**
+- Solving problems daily
+- Improving algorithm skills
+- Preparing for technical interviews
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/9Vgt3JBqKf/)
 ## My Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
